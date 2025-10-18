@@ -14,8 +14,7 @@ This project contains a responsive, animated, and fully customizable web mockup 
 Perfect for:
 - Frontend demos
 - UI tutorials
-- Portfolio pieces
-- Practicing CSS animations and JS interaction
+
 
 ---
 

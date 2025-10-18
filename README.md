@@ -36,7 +36,7 @@ Open the demo: https://subho883.github.io/tutorial-Iphone14-pro-max-/
 ## Technologies
 - HTML5
 - CSS3 (Flexbox / Grid / CSS variables)
-- Optional: simple build tools (visual studio code)
+- simple build tools (visual studio code)
 
 ---
 
